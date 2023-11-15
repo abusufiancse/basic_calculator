@@ -1,3 +1,4 @@
 # basic_calculator with flutter
-![Basic Calculator flutter](https://github.com/abusufiancse/basic_calculator/assets/68639263/777617a2-6db8-43ae-b0c0-c6a29cd0f5df)
+![Basic Calculator](https://github.com/abusufiancse/basic_calculator/assets/68639263/dbca97de-24aa-4beb-b040-df8096370c1c)
+
 
